@@ -3,10 +3,14 @@
 
 ## init
 ```
+go mod tidy    
 
+go clean -modcache
+
+go build -v -a    
 ```
 
-## build
+## sdk build
 ```
 make clean 
 

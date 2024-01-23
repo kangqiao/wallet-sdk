@@ -4,3 +4,4 @@ go.sum
 sdk/sdk-sources.jar
 sdk/sdk.aar
 sdk/Sdk.xcframework/
+wallet-sdk
