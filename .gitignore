@@ -1,0 +1,6 @@
+go.sum
+.idea/
+.vscode/
+sdk/sdk-sources.jar
+sdk/sdk.aar
+sdk/Sdk.xcframework/
